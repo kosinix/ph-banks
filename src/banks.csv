@@ -1,0 +1,633 @@
+name,type,group
+Bangkok Bank Public Co. Ltd.,Commercial Banks (KBs),1
+"Bank of America, N.A.",Commercial Banks (KBs),1
+Bank of China Limited-Manila Branch,Commercial Banks (KBs),1
+Bank of Commerce,Commercial Banks (KBs),1
+"BDO Private Bank, Inc.",Commercial Banks (KBs),1
+"Cathay United Bank Co., LTD. - Manila Branch",Commercial Banks (KBs),1
+"Chang Hwa Commercial Bank, Ltd. - Manila Branch",Commercial Banks (KBs),1
+CIMB Bank Philippines Inc.,Commercial Banks (KBs),1
+"Citibank, N.A.",Commercial Banks (KBs),1
+CTBC Bank (Philippines) Corporation,Commercial Banks (KBs),1
+"First Commercial Bank, Ltd., Manila Branch",Commercial Banks (KBs),1
+"Hua Nan Commercial Bank, Ltd. - Manila Branch",Commercial Banks (KBs),1
+Industrial and Commercial Bank of China Limited - Manila Branch,Commercial Banks (KBs),1
+Industrial Bank of Korea Manila Branch,Commercial Banks (KBs),1
+"JP Morgan Chase Bank, N.A.",Commercial Banks (KBs),1
+KEB Hana Bank - Manila Branch,Commercial Banks (KBs),1
+"Maybank Philippines, Incorporated",Commercial Banks (KBs),1
+"Mega International Commercial Bank Co., Ltd.",Commercial Banks (KBs),1
+"MUFG Bank, Ltd.",Commercial Banks (KBs),1
+Philippine Bank of Communications,Commercial Banks (KBs),1
+Philippine Veterans Bank,Commercial Banks (KBs),1
+Robinsons Bank Corporation,Commercial Banks (KBs),1
+Shinhan Bank - Manila Branch,Commercial Banks (KBs),1
+Sumitomo Mitsui Banking Corporation-Manila Branch,Commercial Banks (KBs),1
+"United Overseas Bank Limited, Manila Branch",Commercial Banks (KBs),1
+Al-Amanah Islamic Investment Bank of the Philippines,Universal Banks (UBs),1
+Asia United Bank Corporation,Universal Banks (UBs),1
+Australia and New Zealand Banking Group Limited,Universal Banks (UBs),1
+Bank of the Philippine Islands,Universal Banks (UBs),1
+"BDO Unibank, Inc.",Universal Banks (UBs),1
+China Banking Corporation,Universal Banks (UBs),1
+Deutsche Bank AG,Universal Banks (UBs),1
+Development Bank of the Philippines,Universal Banks (UBs),1
+East West Banking Corporation,Universal Banks (UBs),1
+ING Bank N.V.,Universal Banks (UBs),1
+Land Bank of the Philippines,Universal Banks (UBs),1
+Metropolitan Bank and Trust Company,Universal Banks (UBs),1
+"Mizuho Bank, Ltd. - Manila Branch",Universal Banks (UBs),1
+Philippine National Bank,Universal Banks (UBs),1
+Philippine Trust Company,Universal Banks (UBs),1
+Rizal Commercial Banking Corporation,Universal Banks (UBs),1
+Security Bank Corporation,Universal Banks (UBs),1
+Standard Chartered Bank,Universal Banks (UBs),1
+The Hongkong & Shanghai Banking Corporation,Universal Banks (UBs),1
+Union Bank of the Philippines,Universal Banks (UBs),1
+United Coconut Planters Bank,Universal Banks (UBs),1
+"1st Valley Bank, Inc. A Development Bank",Thrift Banks,2
+"AllBank (A Thrift Bank), Inc.",Thrift Banks,2
+"Bangko Kabayan, Inc. (A Private Development Bank)",Thrift Banks,2
+"Bank of Makati (A Savings Bank), Inc.",Thrift Banks,2
+Bank One Savings Corporation,Thrift Banks,2
+Bataan Development Bank,Thrift Banks,2
+"BPI Direct BanKO, Inc., A Savings Bank",Thrift Banks,2
+"BPI Family Savings Bank, Inc.",Thrift Banks,2
+"CARD SME Bank, Inc. A Thrift Bank",Thrift Banks,2
+Century Savings Bank Corporation,Thrift Banks,2
+"China Bank Savings, Inc.",Thrift Banks,2
+"City Savings Bank, Inc.",Thrift Banks,2
+"Citystate Savings Bank, Inc.",Thrift Banks,2
+"Cordillera Savings Bank, Inc.",Thrift Banks,2
+"Dumaguete City Development Bank, Inc.",Thrift Banks,2
+"Enterprise Bank, Inc. (A Thrift Bank)",Thrift Banks,2
+"Equicom Savings Bank, Inc.",Thrift Banks,2
+"Farmers Savings and Loan Bank, Inc.",Thrift Banks,2
+"First Consolidated Bank, Inc. (A Private Development Bank)",Thrift Banks,2
+Hiyas Banking Corporation,Thrift Banks,2
+"HSBC Savings Bank (Phils), Inc.",Thrift Banks,2
+Inter-Asia Development Bank,Thrift Banks,2
+"ISLA Bank (A Thrift Bank), Inc.",Thrift Banks,2
+"Legazpi Savings Bank, Inc.",Thrift Banks,2
+"Lemery Savings and Loan Bank, Inc.",Thrift Banks,2
+"Life Savings Bank, Inc.",Thrift Banks,2
+Luzon Development Bank,Thrift Banks,2
+"Malayan Bank Savings and Mortgage Bank, Inc.",Thrift Banks,2
+Maritime Savings Bank Corporation,Thrift Banks,2
+Metro-Cebu Public Savings Bank,Thrift Banks,2
+"Northpoint Development Bank, Inc.",Thrift Banks,2
+"Overseas Filipino Bank, Inc., A Savings Bank of LANDBANK",Thrift Banks,2
+"Pacific Ace Savings Bank, Inc.",Thrift Banks,2
+Pampanga Development Bank,Thrift Banks,2
+"Penbank, Inc. (A Private Development Bank) (formerly: Peninsula Rural Bank, Inc.)",Thrift Banks,2
+"Phil Star Development Bank, Inc.",Thrift Banks,2
+"Philippine Business Bank, Inc., A Savings Bank",Thrift Banks,2
+Philippine Savings Bank,Thrift Banks,2
+PNB Savings Bank,Thrift Banks,2
+Producers Savings Bank Corporation,Thrift Banks,2
+"Queen City Development Bank, Inc. or Queenbank, A Thrift Bank",Thrift Banks,2
+"Quezon Coconut Bank, Inc. (A Thrift Bank)",Thrift Banks,2
+"Rizal Microbank, Inc. - A Thrift Bank of RCBC",Thrift Banks,2
+"Sterling Bank of Asia, Inc. (A Savings Bank)",Thrift Banks,2
+"Sun Savings Bank, Inc.",Thrift Banks,2
+UCPB Savings Bank,Thrift Banks,2
+"University Savings Bank, Inc.",Thrift Banks,2
+Wealth Development Bank Corporation,Thrift Banks,2
+"Yuanta Savings Bank Philippines, Inc.",Thrift Banks,2
+Banco Cooperativa De Zamboanga,Cooperative Banks (Coop. Banks),3
+Bataan Cooperative Bank,Cooperative Banks (Coop. Banks),3
+Consolidated Cooperative Bank,Cooperative Banks (Coop. Banks),3
+Cooperative Bank of Aurora,Cooperative Banks (Coop. Banks),3
+Cooperative Bank of Benguet (CBB),Cooperative Banks (Coop. Banks),3
+Cooperative Bank of Bohol,Cooperative Banks (Coop. Banks),3
+Cooperative Bank of Cagayan,Cooperative Banks (Coop. Banks),3
+Cooperative Bank of Cebu,Cooperative Banks (Coop. Banks),3
+Cooperative Bank of Cotabato,Cooperative Banks (Coop. Banks),3
+Cooperative Bank of La Union,Cooperative Banks (Coop. Banks),3
+Cooperative Bank of Mt. Province,Cooperative Banks (Coop. Banks),3
+Cooperative Bank of Negros Oriental,Cooperative Banks (Coop. Banks),3
+Cooperative Bank of Nueva Vizcaya,Cooperative Banks (Coop. Banks),3
+Cooperative Bank of Palawan,Cooperative Banks (Coop. Banks),3
+Cooperative Bank of Quezon Province,Cooperative Banks (Coop. Banks),3
+Cooperative Bank of Zambales,Cooperative Banks (Coop. Banks),3
+"First Isabela Cooperative Bank, Inc. (Ficobank)",Cooperative Banks (Coop. Banks),3
+Ilocos Consolidated Cooperative Bank,Cooperative Banks (Coop. Banks),3
+Metro South Cooperative Bank,Cooperative Banks (Coop. Banks),3
+Mindanao Consolidated Cooperative Bank,Cooperative Banks (Coop. Banks),3
+National Teachers & Employees Cooperative Bank,Cooperative Banks (Coop. Banks),3
+Negros Cooperative Bank,Cooperative Banks (Coop. Banks),3
+Network Consolidated Cooperative Bank,Cooperative Banks (Coop. Banks),3
+Occidental Mindoro Cooperative Bank (OMCB),Cooperative Banks (Coop. Banks),3
+Zamboanga Del Norte Cooperative Bank,Cooperative Banks (Coop. Banks),3
+Advantage Bank Corp. (A Microfinance-Oriented Rural Bank),Rural Banks (RBs),3
+"Agribusiness Rural Bank, Inc.",Rural Banks (RBs),3
+"Agricultural Bank of the Philippines, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Aliaga Farmers Rural Bank, Inc.",Rural Banks (RBs),3
+"Anilao Bank (Rural Bank of Anilao (Iloilo), Inc.",Rural Banks (RBs),3
+"ARDCIBank, Inc., A Rural Bank",Rural Banks (RBs),3
+"ASENSO Rural Bank of Bautista, Inc.",Rural Banks (RBs),3
+"Aspac Rural Bank, Inc.",Rural Banks (RBs),3
+"Aurorabank (A Microfinance-Oriented Rural Bank), Inc.",Rural Banks (RBs),3
+"Baclaran Rural Bank, Inc.",Rural Banks (RBs),3
+"Balanga Rural Bank, Inc.",Rural Banks (RBs),3
+"Baliuag Rural Bank, Inc.",Rural Banks (RBs),3
+"Banco Alabang, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Banco Bakun, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Banco de Arevalo, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Banco De Calamba, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Banco de Mindoro, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Banco Laguna, Inc. (A Rural Bank Since 1965)",Rural Banks (RBs),3
+"Banco Maximo, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Banco Mexico, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Banco Rural de General Tinio (BRGT), Inc.",Rural Banks (RBs),3
+"Banco Rural De Isla Cordova (Cebu), Inc.",Rural Banks (RBs),3
+"Banco San Vicente, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Banco Santiago De Libon, Inc.",Rural Banks (RBs),3
+"Banco Sual (A Rural Bank), Inc.",Rural Banks (RBs),3
+"Bangko Carrascal, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Bangko Kaisa, Inc. (Formerly: Rural Bank of Bugasong (Antique), Inc.)",Rural Banks (RBs),3
+"Bangko Mabuhay (A Rural Bank), Inc.",Rural Banks (RBs),3
+"Bangko Magsaysay (Isabela), Inc. - A Rural Bank",Rural Banks (RBs),3
+"Bangko Montañosa, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Bangko ng Kabuhayan, (A Rural Bank) Inc.",Rural Banks (RBs),3
+"Bangko Noveleta, Inc., A Rural Bank",Rural Banks (RBs),3
+"Bangko Nuestra Senora Del Pilar, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Bangko Pangasinan - A Rural Bank, Inc.",Rural Banks (RBs),3
+Bangko Pasig (Rural Bank),Rural Banks (RBs),3
+"Bangko Rural ng San Teodoro, Inc.",Rural Banks (RBs),3
+"Bank of Hope, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Bank of Ormoc, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Banko Zambaleño Inc., (BZI) (A Rural Bank)",Rural Banks (RBs),3
+"Bankways, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Bannawag Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Batangas Rural Bank for Cooperatives, Inc.",Rural Banks (RBs),3
+"Baybank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"BDO Network Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Benguet Center Bank, Inc. A Rural Bank",Rural Banks (RBs),3
+"BHF Rural Bank, Inc.",Rural Banks (RBs),3
+"Biñan Rural Bank, Inc.",Rural Banks (RBs),3
+"Binangonan Rural Bank, Inc.",Rural Banks (RBs),3
+"BINHI Rural Bank, Inc. (Formerly: Rural Bank of Balingasag (Misamis Oriental), Inc.)",Rural Banks (RBs),3
+"BOF, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Bolbok Rural Bank, Inc.",Rural Banks (RBs),3
+Bridgeway Rural Banking Corporation,Rural Banks (RBs),3
+"Bukidnon Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Butuan City Rural Bank, Inc.",Rural Banks (RBs),3
+"Cagsawa Rural Bank, Inc.",Rural Banks (RBs),3
+"Camalig Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Camiling Rural Bank, Inc.",Rural Banks (RBs),3
+"Cantilan Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Card Bank, Inc. (A Microfinance - Oriented Rural Bank)",Rural Banks (RBs),3
+"CARD MRI Rizal Bank, Inc., A Microfinance-Oriented Rural Bank",Rural Banks (RBs),3
+"Caritas Banco ng Masa, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Cavite United Rural Bank, Corp.",Rural Banks (RBs),3
+"Cebuana Lhuillier Rural Bank, Inc.",Rural Banks (RBs),3
+"Century Rural Bank, Inc.",Rural Banks (RBs),3
+"Citizen's Rural Bank (Cabiao), Inc.",Rural Banks (RBs),3
+"Classic Rural Bank, Inc.",Rural Banks (RBs),3
+"Common Wealth Rural Bank, Inc.",Rural Banks (RBs),3
+"Community Rural Bank of Catmon (Cebu), Inc.",Rural Banks (RBs),3
+"Community Rural Bank of Dapitan City, Incorporated",Rural Banks (RBs),3
+"Community Rural Bank of Medellin (Cebu), Inc.",Rural Banks (RBs),3
+"Community Rural Bank of Romblon (Romblon), Inc.",Rural Banks (RBs),3
+"Community Rural Bank of San Felipe (Zambales), Inc.",Rural Banks (RBs),3
+"Community Rural Bank of San Gabriel (La Union), Inc.",Rural Banks (RBs),3
+"Cordillera Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Country Builders Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Countryside Rural Bank of Palauig (Zambales), Inc.",Rural Banks (RBs),3
+"Crown Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"CSFirst Bank, INC. -A Rural Bank",Rural Banks (RBs),3
+"Cuyapo Rural Bank, Inc.",Rural Banks (RBs),3
+"D' Asian Hills Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"De La O Rural Bank, Inc.",Rural Banks (RBs),3
+"Diamond Rural Bank, Inc.",Rural Banks (RBs),3
+"Dumaguete Rural Bank, Inc.",Rural Banks (RBs),3
+"Dungganon Bank (A Microfinance Rural Bank), Inc.",Rural Banks (RBs),3
+"East West Rural Bank, Inc.",Rural Banks (RBs),3
+"Emerald Rural Bank, Inc.",Rural Banks (RBs),3
+"Enterprise Capital Bank, Inc. (Taguig Rural Bank)",Rural Banks (RBs),3
+"Entrepreneur Rural Bank, Inc.",Rural Banks (RBs),3
+Far Eastern Bank (A Rural Bank) Inc.,Rural Banks (RBs),3
+"Farm Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"FBC First Bank of Calaca, Inc.",Rural Banks (RBs),3
+Filidian Rural Bank of Antipolo Inc.,Rural Banks (RBs),3
+"First Agro-Industrial Rural Bank, Inc. (FairBank)",Rural Banks (RBs),3
+"First Community Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"First Imperial Business Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"First Integrity Bank, Inc. (Rural Bank of Bailen)",Rural Banks (RBs),3
+"First Mindoro Microfinance Rural Bank, Inc.",Rural Banks (RBs),3
+"First Naga Rural Bank, Inc.",Rural Banks (RBs),3
+"First State Bank, Inc., A Rural Bank",Rural Banks (RBs),3
+"First Tagum Rural Bank, Inc.",Rural Banks (RBs),3
+"First United Farmers Rural Bank, Inc.",Rural Banks (RBs),3
+"Frontier Rural Bank, Inc.",Rural Banks (RBs),3
+"Gateway Rural Bank, Inc.",Rural Banks (RBs),3
+"GM Bank of Luzon, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Golden Rural Bank of the Philippines, Inc.",Rural Banks (RBs),3
+Grand-Agri Rural Bank,Rural Banks (RBs),3
+"Guagua Rural Bank, Inc.",Rural Banks (RBs),3
+"Guagua Savers Bank (A Rural Bank), Inc.",Rural Banks (RBs),3
+Highland Rural Bank Inc.,Rural Banks (RBs),3
+"Imus Rural Bank, Inc.",Rural Banks (RBs),3
+"Innovative Rural Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Janiuay Rural Bank, Inc.",Rural Banks (RBs),3
+"Kaluyagan Rural Bank, Inc.",Rural Banks (RBs),3
+Katipunan Bank Inc. A Rural Bank,Rural Banks (RBs),3
+"Key Rural Bank, Inc.",Rural Banks (RBs),3
+Lagawe Highlands Rural Bank,Rural Banks (RBs),3
+"Laguna Prestige Banking Corporation, (A Rural Bank)",Rural Banks (RBs),3
+"Liberty Bank (A Rural Bank), Inc.",Rural Banks (RBs),3
+LifeBank- A Rural Bank,Rural Banks (RBs),3
+"Limcoma Rural Bank, Inc.",Rural Banks (RBs),3
+"Lipa Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"LUDB Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Mactan Rural Bank (Lapu-Lapu City), Inc.",Rural Banks (RBs),3
+"Maharlika Rural Bank, Inc.",Rural Banks (RBs),3
+Makiling Development Bank Corporation,Rural Banks (RBs),3
+"Malarayat Rural Bank, Inc.",Rural Banks (RBs),3
+"Malaybalay Rural Bank, Inc.",Rural Banks (RBs),3
+"Mallig Plains Rural Bank (Isabela), Inc.",Rural Banks (RBs),3
+Manor Bank - A Rural Bank Corp.,Rural Banks (RBs),3
+"Marayo Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Masagana Rural Bank, (Gen. Natividad, N.E.), Inc.",Rural Banks (RBs),3
+"Masantol Rural Bank, Inc.",Rural Banks (RBs),3
+"Masuwerte Rural Bank of Bacoor (Cavite), Inc.",Rural Banks (RBs),3
+"Mega Rural Bank (Lucena City), Inc.",Rural Banks (RBs),3
+"Meycauayan Second Rural Bank, Inc.",Rural Banks (RBs),3
+"Misamis Bank, Inc. A Rural Bank",Rural Banks (RBs),3
+"Money Mall Rural Bank, Inc.",Rural Banks (RBs),3
+"Mount Carmel Rural Bank, Inc.",Rural Banks (RBs),3
+"Municipal Rural Bank of Libmanan (Cam. Sur), Inc.",Rural Banks (RBs),3
+"Municipal Rural Bank of Nabua (Camarines Sur), Inc.",Rural Banks (RBs),3
+MVSM Bank (A Rural Bank Since 1953) Inc.,Rural Banks (RBs),3
+"Naawan Community Rural Bank (Misamis Oriental), Inc.",Rural Banks (RBs),3
+"New Covenant Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"New Rural Bank of Agoncillo, Inc.",Rural Banks (RBs),3
+"New Rural Bank of San Leonardo (Nueva Ecija), Inc.",Rural Banks (RBs),3
+North Pacific Banking Corporation (A Rural Bank),Rural Banks (RBs),3
+"Occidental Mindoro Rural Bank, Inc.",Rural Banks (RBs),3
+"Opportunity Kauswagan Bank, Inc. (A Microfinance Rural Bank)",Rural Banks (RBs),3
+"Oriental Tamaraw Rural Bank of Naujan, (Or. Mdo.), Inc.",Rural Banks (RBs),3
+"Ormon Bank (Rural Bank of Mulanay (Quezon), Inc.)",Rural Banks (RBs),3
+"Own Bank, The Rural Bank of Cavite City, Inc.",Rural Banks (RBs),3
+"Palm Tree Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Pangasinan Bank (A Rural Bank), Inc.",Rural Banks (RBs),3
+"Panguil Bay Rural Bank of Ozamiz, Inc.",Rural Banks (RBs),3
+"Partner Rural Bank (Cotabato), Inc.",Rural Banks (RBs),3
+"PBCOM Rural Bank, Inc.",Rural Banks (RBs),3
+"People's Bank of Caraga, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"People's Rural Bank (Gen. Santos City), Inc.",Rural Banks (RBs),3
+"Philippine SME Bank, Inc., A Rural Bank",Rural Banks (RBs),3
+"Pioneer Bank (A Rural Bank), Inc.",Rural Banks (RBs),3
+"Planbank ""Rural Bank of Canlubang Planters, Inc.""",Rural Banks (RBs),3
+ProFarmers Rural Banking Corporation,Rural Banks (RBs),3
+"Progressive Bank, Inc. (Progressive A Rural Bank Inc)",Rural Banks (RBs),3
+"Progressive Rural Bank, Inc.",Rural Banks (RBs),3
+"Providence Rural Bank, Inc.",Rural Banks (RBs),3
+"Provident Rural Bank of Sta. Cruz (Laguna), Inc.",Rural Banks (RBs),3
+"Queen City Rural Bank, Inc.",Rural Banks (RBs),3
+"Quezon Capital Rural Bank, Inc.",Rural Banks (RBs),3
+"Racso's Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Rang-Ay Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"RBT Bank, Inc., A Rural Bank",Rural Banks (RBs),3
+"RNG Coastal Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Rural Bank of Abucay (Bataan), Inc.",Rural Banks (RBs),3
+"Rural Bank of Agoo, Inc.",Rural Banks (RBs),3
+"Rural Bank of Alabel (Sarangani), Inc.",Rural Banks (RBs),3
+"Rural Bank of Alaminos (Pangasinan), Inc.",Rural Banks (RBs),3
+"Rural Bank of Alicia (Isabela), Inc.",Rural Banks (RBs),3
+"Rural Bank of Alimodian (Iloilo), Inc.",Rural Banks (RBs),3
+"Rural Bank of Alitagtag, Inc.",Rural Banks (RBs),3
+"Rural Bank of Altavas (Aklan), Inc.",Rural Banks (RBs),3
+"Rural Bank of Amlan (Negros Oriental), Inc.",Rural Banks (RBs),3
+"Rural Bank of Anda (Pangasinan), Inc.",Rural Banks (RBs),3
+"Rural Bank of Angat (Bulacan), Inc.",Rural Banks (RBs),3
+"Rural Bank of Angeles, Inc.",Rural Banks (RBs),3
+"Rural Bank of Angono, Inc.",Rural Banks (RBs),3
+"Rural Bank of Antipolo, Inc.",Rural Banks (RBs),3
+"Rural Bank of Apalit, Inc.",Rural Banks (RBs),3
+"Rural Bank of Aritao, Inc.",Rural Banks (RBs),3
+"Rural Bank of Atimonan, Inc.",Rural Banks (RBs),3
+"Rural Bank of Bacnotan, Inc.",Rural Banks (RBs),3
+"Rural Bank of Baco (Oriental Mindoro), Inc.",Rural Banks (RBs),3
+"Rural Bank of Bacolod City, Inc.",Rural Banks (RBs),3
+"Rural Bank of Bacong (Negros Oriental), Inc.",Rural Banks (RBs),3
+"Rural Bank of Bagabag (N.V.), Inc.",Rural Banks (RBs),3
+"Rural Bank of Bagac, Bataan, Inc.",Rural Banks (RBs),3
+"Rural Bank of Baguio, Inc.",Rural Banks (RBs),3
+"Rural Bank of Balungao (Pangasinan), Inc.",Rural Banks (RBs),3
+"Rural Bank of Bambang (Nueva Vizcaya), Inc.",Rural Banks (RBs),3
+"Rural Bank of Banga (Aklan), Inc.",Rural Banks (RBs),3
+"Rural Bank of Bansud (Oriental Mindoro), Inc.",Rural Banks (RBs),3
+"Rural Bank of Barili (Cebu), Inc.",Rural Banks (RBs),3
+"Rural Bank of Batac, Inc.",Rural Banks (RBs),3
+"Rural Bank of Bato (Leyte), Inc.",Rural Banks (RBs),3
+"Rural Bank of Bauang, Inc.",Rural Banks (RBs),3
+"Rural Bank of Bay, Inc.",Rural Banks (RBs),3
+"Rural Bank of Bayambang (Pangasinan), Inc.",Rural Banks (RBs),3
+"Rural Bank of Bayombong, Inc.",Rural Banks (RBs),3
+"Rural Bank of Bogo (Cebu), Inc.",Rural Banks (RBs),3
+"Rural Bank of Bolinao (Pangasinan), Inc.",Rural Banks (RBs),3
+"Rural Bank of Bonifacio (Misamis Occidental), Inc.",Rural Banks (RBs),3
+"Rural Bank of Bontoc (Mountain Province), Inc.",Rural Banks (RBs),3
+"Rural Bank of Brooke'S Point (Palawan), Inc.",Rural Banks (RBs),3
+"Rural Bank of Bucay (Abra), Inc.",Rural Banks (RBs),3
+"Rural Bank of Cabangan (Zambales), Inc.",Rural Banks (RBs),3
+"Rural Bank of Cabatuan (Iloilo), Inc.",Rural Banks (RBs),3
+"Rural Bank of Cabugao (Ilocos Sur), Inc.",Rural Banks (RBs),3
+"Rural Bank of Cadiz, Inc.",Rural Banks (RBs),3
+"Rural Bank of Calauan, Inc.",Rural Banks (RBs),3
+"Rural Bank of Calbayog City, Inc.",Rural Banks (RBs),3
+"Rural Bank of Calinog (Iloilo), Inc.",Rural Banks (RBs),3
+"Rural Bank of Caloocan, Inc.",Rural Banks (RBs),3
+"Rural Bank of Candelaria, Inc.",Rural Banks (RBs),3
+"Rural Bank of Capalonga (Camarines Norte),Inc.",Rural Banks (RBs),3
+"Rural Bank of Cardona (Rizal), Inc.",Rural Banks (RBs),3
+"Rural Bank of Casiguran (Aurora), Inc.",Rural Banks (RBs),3
+"Rural Bank of Cauayan, Incorporated",Rural Banks (RBs),3
+"Rural Bank of Cavinti (Laguna), Inc.",Rural Banks (RBs),3
+"Rural Bank of Central Pangasinan (Bayambang), Inc.",Rural Banks (RBs),3
+"Rural Bank of Compostela (COMVAL), Inc.",Rural Banks (RBs),3
+"Rural Bank of Cuartero (Capiz), Inc.",Rural Banks (RBs),3
+"Rural Bank of Cuenca, Inc.",Rural Banks (RBs),3
+"Rural Bank of Cuyo (Palawan), Inc.",Rural Banks (RBs),3
+"Rural Bank of Datu Paglas, Inc.",Rural Banks (RBs),3
+"Rural Bank of Digos, Inc.",Rural Banks (RBs),3
+"Rural Bank of Doña Remedios Trinidad (Bulacan), Inc.",Rural Banks (RBs),3
+"Rural Bank of Dolores (Quezon), Inc.",Rural Banks (RBs),3
+"Rural Bank of Donsol (Sorsogon), Inc.",Rural Banks (RBs),3
+"Rural Bank of Dulag (Leyte), Inc.",Rural Banks (RBs),3
+"Rural Bank of Dumangas, Inc.",Rural Banks (RBs),3
+"Rural Bank of Dupax (Nueva Vizcaya), Inc.",Rural Banks (RBs),3
+"Rural Bank of El Salvador (Misamis Oriental), Inc.",Rural Banks (RBs),3
+"Rural Bank of Escalante (Negros Occ.), Inc.",Rural Banks (RBs),3
+"Rural Bank of Galimuyod (Ilocos Sur), Incorporated",Rural Banks (RBs),3
+"Rural Bank of Gandara (Samar), Inc.",Rural Banks (RBs),3
+"Rural Bank of Gattaran (Cagayan), Inc.",Rural Banks (RBs),3
+"Rural Bank of General Luna (Quezon), Inc.",Rural Banks (RBs),3
+"Rural Bank of General Trias, Inc.",Rural Banks (RBs),3
+"Rural Bank of Gingoog, Inc.",Rural Banks (RBs),3
+"Rural Bank of Gitagum (Misamis Oriental), Inc.",Rural Banks (RBs),3
+"Rural Bank of Gloria (Or. Min.), Inc.",Rural Banks (RBs),3
+"Rural Bank of Guinobatan, Inc.",Rural Banks (RBs),3
+"Rural Bank of Guiuan (Eastern Samar), Inc.",Rural Banks (RBs),3
+"Rural Bank of Hermosa (Bataan), Inc.",Rural Banks (RBs),3
+"Rural Bank of Hilongos,Inc.",Rural Banks (RBs),3
+"Rural Bank of Hindang (Leyte), Inc.",Rural Banks (RBs),3
+"Rural Bank of Hinundayan (Southern Leyte), Inc.",Rural Banks (RBs),3
+"Rural Bank of Ibajay, Inc.",Rural Banks (RBs),3
+"Rural Bank of Ilog (Negros Occidental), Inc.",Rural Banks (RBs),3
+"Rural Bank of Iloilo City, Inc.",Rural Banks (RBs),3
+"Rural Bank of Infanta, Inc.",Rural Banks (RBs),3
+"Rural Bank of Irosin, Inc.",Rural Banks (RBs),3
+"Rural Bank of Itogon (Benguet), Inc.",Rural Banks (RBs),3
+"Rural Bank of Jaen, Inc.",Rural Banks (RBs),3
+"Rural Bank of Jamindan (Capiz), Inc.",Rural Banks (RBs),3
+"Rural Bank of Jimenez (Misamis Occidental), Inc.",Rural Banks (RBs),3
+"Rural Bank of Jose Panganiban (Camarines Norte), Inc.",Rural Banks (RBs),3
+"Rural Bank of Kapalong (Davao), Inc.",Rural Banks (RBs),3
+"Rural Bank of Karomatan (Lanao Del Norte), Inc.",Rural Banks (RBs),3
+"Rural Bank of Kiamba (Sarangani), Inc.",Rural Banks (RBs),3
+"Rural Bank of Kibawe (Bukidnon), Inc.",Rural Banks (RBs),3
+"Rural Bank of La Paz, Inc.",Rural Banks (RBs),3
+"Rural Bank of Labason (Zamboanga Del Norte), Incorporated",Rural Banks (RBs),3
+"Rural Bank of Lanuza (Surigao Del Sur), Incorporated",Rural Banks (RBs),3
+"Rural Bank of Lebak (Sultan Kudarat), Incorporated",Rural Banks (RBs),3
+"Rural Bank of Leganes (Iloilo), Inc.",Rural Banks (RBs),3
+"Rural Bank of Liloy (Zamboanga Del Norte), Inc.",Rural Banks (RBs),3
+"Rural Bank of Limay (Bataan), Inc.",Rural Banks (RBs),3
+"Rural Bank of Lipa City (Batangas), Inc.",Rural Banks (RBs),3
+"Rural Bank of Loon (Bohol), Inc.",Rural Banks (RBs),3
+"Rural Bank of Lopez Jaena (Misamis Occidental), Inc.",Rural Banks (RBs),3
+"Rural Bank of Lucban (Quezon), Inc.",Rural Banks (RBs),3
+"Rural Bank of Luisiana (Laguna), Inc.",Rural Banks (RBs),3
+"Rural Bank of Lumban (Laguna), Inc.",Rural Banks (RBs),3
+"Rural Bank of Maasin (Southern Leyte), Inc.",Rural Banks (RBs),3
+"Rural Bank of Mabalacat, Inc.",Rural Banks (RBs),3
+"Rural Bank of Maddela (Quirino), Inc.",Rural Banks (RBs),3
+"Rural Bank of Madridejos (Cebu), Inc.",Rural Banks (RBs),3
+"Rural Bank of Magdalena (Laguna), Inc.",Rural Banks (RBs),3
+"Rural Bank of Mahaplag (Leyte), Inc.",Rural Banks (RBs),3
+"Rural Bank of Makato (Aklan), Inc.",Rural Banks (RBs),3
+"Rural Bank of Malitbog (Southern Leyte), Inc.",Rural Banks (RBs),3
+"Rural Bank of Malolos, Inc.",Rural Banks (RBs),3
+"Rural Bank of Mambusao, Inc.",Rural Banks (RBs),3
+"Rural Bank of Manapla (Neg. Occ.), Inc.",Rural Banks (RBs),3
+"Rural Bank of Mandaue, Inc.",Rural Banks (RBs),3
+"Rural Bank of Mangaldan, Inc. (Bangko Rural Ng Mangaldan, Ink.)",Rural Banks (RBs),3
+"Rural Bank of Manolo Fortich, Bukidnon, Inc.",Rural Banks (RBs),3
+"Rural Bank of Manukan (Zamboanga Del Norte), Inc.",Rural Banks (RBs),3
+"Rural Bank of Maragondon, Inc.",Rural Banks (RBs),3
+"Rural Bank of Maria Aurora (Aurora), Inc.",Rural Banks (RBs),3
+"Rural Bank of Marilag (Sta. Maria, Laguna), Inc.",Rural Banks (RBs),3
+"Rural Bank of Matag-ob (Leyte), Inc.",Rural Banks (RBs),3
+"Rural Bank of Mati, Inc.",Rural Banks (RBs),3
+"Rural Bank of Mauban, Inc.",Rural Banks (RBs),3
+"Rural Bank of Medina (Misamis Oriental), Inc.",Rural Banks (RBs),3
+"Rural Bank of Miagao (Iloilo), Inc.",Rural Banks (RBs),3
+"Rural Bank of Midsayap, Inc.",Rural Banks (RBs),3
+"Rural Bank of Montalban, Inc.",Rural Banks (RBs),3
+"Rural Bank of Nabunturan (Compostela Valley), Inc.",Rural Banks (RBs),3
+"Rural Bank of Naic, Inc.",Rural Banks (RBs),3
+"Rural Bank of New Washington (Aklan), Inc.",Rural Banks (RBs),3
+"Rural Bank of Norala (S. Cotabato), Inc.",Rural Banks (RBs),3
+"Rural Bank of Oslob (Cebu), Inc.",Rural Banks (RBs),3
+"Rural Bank of Padre Garcia, Inc.",Rural Banks (RBs),3
+"Rural Bank of Paete, Inc.",Rural Banks (RBs),3
+"Rural Bank of Pagadian, Inc.",Rural Banks (RBs),3
+"Rural Bank of Pamplona (Negros Oriental), Inc.",Rural Banks (RBs),3
+"Rural Bank of Pana-On (Mis. Occ.), Inc.",Rural Banks (RBs),3
+"Rural Bank of Pangil (Laguna), Inc.",Rural Banks (RBs),3
+"Rural Bank of Paracale (Camarines Norte), Incorporated",Rural Banks (RBs),3
+"Rural Bank of Pilar (Bataan), Inc.",Rural Banks (RBs),3
+"Rural Bank of Pilar (Sorsogon), Inc.",Rural Banks (RBs),3
+"Rural Bank of Pinamalayan, Inc.",Rural Banks (RBs),3
+"Rural Bank of Placer (Surigao del Norte), Inc.",Rural Banks (RBs),3
+"Rural Bank of Pola (Oriental Mindoro), Inc.",Rural Banks (RBs),3
+"Rural Bank of Polomolok (South Cotabato), Inc.",Rural Banks (RBs),3
+"Rural Bank of Porac (Pampanga), Inc.",Rural Banks (RBs),3
+"Rural Bank of Pototan, Inc.",Rural Banks (RBs),3
+"Rural Bank of Pozorrubio, Inc.",Rural Banks (RBs),3
+"Rural Bank of Puerto Galera (Oriental Mindoro), Inc.",Rural Banks (RBs),3
+"Rural Bank of Pura (Tarlac), Inc.",Rural Banks (RBs),3
+"Rural Bank of Quezon (N. E.), Inc.",Rural Banks (RBs),3
+"Rural Bank of Ramon (Isabela), Inc.",Rural Banks (RBs),3
+"Rural Bank of Rizal (Kalinga-Apayao), Inc.",Rural Banks (RBs),3
+"Rural Bank of Rizal (Laguna), Inc.",Rural Banks (RBs),3
+"Rural Bank of Rizal (Zamboanga Del Norte), Inc.",Rural Banks (RBs),3
+"Rural Bank of Ronda, Inc.",Rural Banks (RBs),3
+"Rural Bank of Rosario (La Union), Inc.",Rural Banks (RBs),3
+"Rural Bank of Roxas (Oriental Mindoro), Inc.",Rural Banks (RBs),3
+"Rural Bank of Sagada (Mountain Province), Inc.",Rural Banks (RBs),3
+"Rural Bank of Sagay, Inc.",Rural Banks (RBs),3
+"Rural Bank of Salcedo (Ilocos Sur), Inc.",Rural Banks (RBs),3
+"Rural Bank of Salug (Zamboanga Del Norte), Inc.",Rural Banks (RBs),3
+"Rural Bank of Sampaloc (Quezon), Inc.",Rural Banks (RBs),3
+"Rural Bank of San Agustin (Isabela), Inc.",Rural Banks (RBs),3
+"Rural Bank of San Antonio, Inc.",Rural Banks (RBs),3
+"Rural Bank of San Jacinto (Masbate), Inc.",Rural Banks (RBs),3
+"Rural Bank of San Jose (Camarines Sur), Inc.",Rural Banks (RBs),3
+"Rural Bank of San Juan (Southern Leyte), Inc.",Rural Banks (RBs),3
+"Rural Bank of San Lorenzo Ruiz (Siniloan), Inc.",Rural Banks (RBs),3
+"Rural Bank of San Luis (Batangas), Inc.",Rural Banks (RBs),3
+"Rural Bank of San Luis (Pampanga), Inc.",Rural Banks (RBs),3
+"Rural Bank of San Manuel (Isabela), Inc.",Rural Banks (RBs),3
+"Rural Bank of San Marcelino, Inc.",Rural Banks (RBs),3
+"Rural Bank of San Mateo (Isabela), Inc.",Rural Banks (RBs),3
+"Rural Bank of San Miguel (Iloilo), Inc.",Rural Banks (RBs),3
+"Rural Bank of San Narciso, Inc.",Rural Banks (RBs),3
+"Rural Bank of San Nicolas (Pangasinan), Inc.",Rural Banks (RBs),3
+"Rural Bank of San Pascual (Obando, Bulacan), Inc.",Rural Banks (RBs),3
+"Rural Bank of San Quintin, Inc.",Rural Banks (RBs),3
+"Rural Bank of San Rafael (Bulacan), Inc.",Rural Banks (RBs),3
+"Rural Bank of Sanchez Mira (Cagayan), Inc.",Rural Banks (RBs),3
+"Rural Bank of Santa Fe (Romblon), Inc.",Rural Banks (RBs),3
+"Rural Bank of Sasmuan (Pampanga), Incorporated",Rural Banks (RBs),3
+"Rural Bank of Seven Lakes (San Pablo City), Inc.",Rural Banks (RBs),3
+"Rural Bank of Silay City, Inc.",Rural Banks (RBs),3
+"Rural Bank of Siocon (Zamboanga Del Norte), Inc.",Rural Banks (RBs),3
+"Rural Bank of Sipocot (Camarines Sur), Inc.",Rural Banks (RBs),3
+"Rural Bank of Socorro (Oriental Mindoro), Inc.",Rural Banks (RBs),3
+"Rural Bank of Solano (Nueva Vizcaya), Inc.",Rural Banks (RBs),3
+"Rural Bank of Sta. Barbara (Iloilo), Inc.",Rural Banks (RBs),3
+"Rural Bank of Sta. Catalina, Negros Oriental, Inc.",Rural Banks (RBs),3
+"Rural Bank of Sta. Ignacia, Inc.",Rural Banks (RBs),3
+"Rural Bank of Sta. Maria (Ilocos Sur), Inc.",Rural Banks (RBs),3
+"Rural Bank of Sta. Rosa (Laguna), Inc.",Rural Banks (RBs),3
+"Rural Bank of Sta. Rosa De Lima (Paniqui, Tarlac), Inc.",Rural Banks (RBs),3
+"Rural Bank of Sudipen (La Union), Inc.",Rural Banks (RBs),3
+"Rural Bank of Taal, Inc.",Rural Banks (RBs),3
+"Rural Bank of Talisay (Batangas), Inc.",Rural Banks (RBs),3
+"Rural Bank of Talisay (Cebu), Inc.",Rural Banks (RBs),3
+"Rural Bank of Talugtug (N. E.), Inc.",Rural Banks (RBs),3
+"Rural Bank of Tandag (Surigao Del Sur), Inc.",Rural Banks (RBs),3
+"Rural Bank of Tangub City, (Mis. Occ.) Inc.",Rural Banks (RBs),3
+"Rural Bank of Tanjay, Inc.",Rural Banks (RBs),3
+"Rural Bank of Tibiao (Antique), Inc.",Rural Banks (RBs),3
+"Rural Bank of Tigaon Camarines Sur, Inc.",Rural Banks (RBs),3
+"Rural Bank of Tigbauan (Iloilo), Inc.",Rural Banks (RBs),3
+"Rural Bank of Victoria, Inc.",Rural Banks (RBs),3
+"Rural Bank of Villaverde (Nueva Vizcaya), Inc.",Rural Banks (RBs),3
+"Rural Bank of Zarraga (Iloilo), Inc.",Rural Banks (RBs),3
+"Sadiri Rural Bank (San Juan, Ilocos Sur), Inc.",Rural Banks (RBs),3
+"Salug Valley Rural Bank, Inc.",Rural Banks (RBs),3
+"San Bartolome Rural Bank, Inc.",Rural Banks (RBs),3
+"San Fernando Rural Bank, Inc.",Rural Banks (RBs),3
+"Saviour Rural Bank, Inc.",Rural Banks (RBs),3
+"Second Rural Bank of San Luis, Pampanga, Inc.",Rural Banks (RBs),3
+"Second Rural Bank of Valenzuela (Metro Manila), Inc.",Rural Banks (RBs),3
+"Secured Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+SG BANK - A RURAL BANK INC.,Rural Banks (RBs),3
+"Silahis Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Smart Bank (A Rural Bank), Inc.",Rural Banks (RBs),3
+"South Bank (A Rural Bank), Incorporated",Rural Banks (RBs),3
+"Southeast Country Bank, Inc. ( A Rural Bank)",Rural Banks (RBs),3
+"St. Michael Rural Bank of Tarlac (Tarlac), Inc.",Rural Banks (RBs),3
+"Sta. Maria Rural Bank, Inc.",Rural Banks (RBs),3
+"Sto. Niño Rural Bank (Ternate, Cavite), Inc.",Rural Banks (RBs),3
+"Sugbuanon Rural Bank, Inc.",Rural Banks (RBs),3
+"Summit Bank (Rural Bank of Tublay, Inc.)",Rural Banks (RBs),3
+"Summit Rural Bank of Lipa City, Inc.",Rural Banks (RBs),3
+"Sunrise Rural Bank (Rosario, Batangas), Inc.",Rural Banks (RBs),3
+"Talisay Rural Bank, Inc.",Rural Banks (RBs),3
+"Tamaraw Rural Bank, Inc.",Rural Banks (RBs),3
+"The Country Bank Rural Bank of Bongabong Or. Mindoro, Inc.",Rural Banks (RBs),3
+"Towncall Rural Bank, Inc.",Rural Banks (RBs),3
+TRBank (A Rural Bank),Rural Banks (RBs),3
+"Turumba Rural Bank of Pakil, Inc.",Rural Banks (RBs),3
+"Unilink Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"United Consumers Rural Bank, Inc.",Rural Banks (RBs),3
+"United People's Rural Bank, Inc.",Rural Banks (RBs),3
+"Universal Rural Bank of Lopez (Quezon), Inc.",Rural Banks (RBs),3
+"Upland Rural Bank of Dalaguete (Cebu), Inc.",Rural Banks (RBs),3
+"Utility Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Vigan Banco Rural, Incorporada",Rural Banks (RBs),3
+"Village Bank, Inc. (A Rural Bank)",Rural Banks (RBs),3
+"Vizcaya Bank, A Rural Bank, Inc.",Rural Banks (RBs),3
+"Zambales Rural Bank, Inc.",Rural Banks (RBs),3
+"Zamboanga City Rural Bank, Inc.",Rural Banks (RBs),3
+Cebu International Finance Corporation,Non-Banks with Quasi-Banking Functions,4
+First Metro Investment Corporation,Non-Banks with Quasi-Banking Functions,4
+Metrobank Card Corporation (A Finance Company),Non-Banks with Quasi-Banking Functions,4
+Orix Metro Leasing and Finance Corporation,Non-Banks with Quasi-Banking Functions,4
+Philippine Depository and Trust Corporation,Non-Banks with Quasi-Banking Functions,4
+RCBC Capital Corporation,Non-Banks with Quasi-Banking Functions,4
+RCBC Leasing and Finance Corporation,Non-Banks with Quasi-Banking Functions,4
+Toyota Financial Services Philippines Corporation (TFSPH),Non-Banks with Quasi-Banking Functions,4
+"Air Materiel Wing Savings & Loan Association, Inc. (AMWSLAI)",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Armed Forces and Police Savings and Loan Association, Inc. (AFPSLAI)",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Arsenal Savings and Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"ASLA Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Baguio Vendors Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Basa Air Base Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Batanes Government Employees Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"BIR Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Bottlers Employees Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Bureau of Jail Management and Penology Savings and Loans Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Cavite Naval Base Savings and Loan Association, Inc. (CNBSLAI)",Non-Stock Savings and Loan Associations (NSSLAs),4
+"CDCP Employees Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Certified Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Composite Wing Savings and Loan Association, Inc. (CWSLAI)",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Department of Economic Research Savings and Loan Association, Inc. (DERSALA)",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Department of Engineering and Public Works Savings and Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Earist Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Faculty and Employees Savings and Loan Association of Adamson University, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Fernando Air Base Savings & Loan Association, Inc. (FABSLAI)",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Forestry Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Iligan City Public School Teachers Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"ISDA Savings and Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Isla Lipana & Co. Employees Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Jemba Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Judiciary Savings & Loan Association, Inc. (JUSLAI)",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Kapisanan sa Pag-iimpok at Paghiram ng mga Kawani ng Pamahalaang Lungsod ng Quezon, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Lepanto Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Mactan Air Base Savings & Loan Association, Inc. (MABSLAI)",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Malacañang Employees Savings and Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Manila Teacher's Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Mantrasco Employees Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Mariwasa Employees Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Mead Johnson Nutrition Employees Savings and Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Meralco Employees Savings and Loan Association, Inc. (MESALA)",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Multi-Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Muntinlupa Employees Savings and Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"NBI Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"NIA Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"NPC Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Philippine Coast Guard Savings & Loan Association, Inc. (PCGSLAI)",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Philippine Navy Savings & Loan Association, Inc. (PNSLAI)",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Philnabank Employees Savings & Loan Association, Inc. (PESLAI)",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Philtrust Company Employees Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Phimco Employees Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Port Community Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Professional Regulation Commission Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Public Safety Savings & Loan Association, Inc. (PSSLAI)",Non-Stock Savings and Loan Associations (NSSLAs),4
+"RGC Employees Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"RPP Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Sanitary Care Products Asia Employees Savings and Loans Association, Inc. (SCPA ESLAI)",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Savings & Loan Association of Government Auditors, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Savings and Loan Association of P&G Phils., Employees, (PECA) Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Science Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Shell Employees Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Shell Refinery Employees Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"SM Savings and Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Southernside Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Supreme Court Savings & Loan Association, Inc. (SCSLAI)",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Telecommunications Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Toyota Motor Philippines Savings & Loan Association, Inc. (TMPSLAI)",Non-Stock Savings and Loan Associations (NSSLAs),4
+University of Luzon Savings & Loan Association,Non-Stock Savings and Loan Associations (NSSLAs),4
+"Water and Sewerage Sector Savings and Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+"Wyeth Philippines Employees Savings & Loan Association, Inc.",Non-Stock Savings and Loan Associations (NSSLAs),4
+Taiwan Cooperative Bank,Offshore Banking Units in the Philippines,4
+Bank of Singapore Limited Philippine Representative Office,Representative Offices in the Philippines,4
+Bank of Taiwan Representative Office,Representative Offices in the Philippines,4
+"Credit Suisse AG Representative Office, Philippines",Representative Offices in the Philippines,4
+"DBS Bank, Ltd",Representative Offices in the Philippines,4
+Japan Bank For International Cooperation,Representative Offices in the Philippines,4
+Korea Development Bank Representative Office,Representative Offices in the Philippines,4
+Korea Eximbank Manila Representative Office,Representative Offices in the Philippines,4
+Rothschild (Singapore) Limited Philippine Representative Office,Representative Offices in the Philippines,4
+State Bank of India,Representative Offices in the Philippines,4
+The Bank of New York Mellon,Representative Offices in the Philippines,4
+"The Ogaki Kyoritsu Bank, Ltd. Representative Office",Representative Offices in the Philippines,4
+UBS AG Philippine Representative Office,Representative Offices in the Philippines,4
+Wells Fargo Bank National Association,Representative Offices in the Philippines,4
