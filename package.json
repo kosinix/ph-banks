@@ -1,6 +1,6 @@
 {
   "name": "ph-banks",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "List of Philippine banks from Bangko Sentral ng Pilipinas (BSP).",
   "main": "index.js",
   "directories": {
