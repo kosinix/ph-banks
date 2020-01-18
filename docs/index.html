@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PH Banks</title>
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<h1>Philippine Banks</h1>
+<p>List of Philippine banks from Bangko Sentral ng Pilipinas (BSP).</p>
+<div class="groups">
+    <span>Group:</span>
+    <label for="group1"><input id="group1" checked name="group" type="checkbox" value="1"> 1</label>
+    <label for="group2"><input id="group2" checked name="group" type="checkbox" value="2"> 2</label>
+    <label for="group3"><input id="group3" checked name="group" type="checkbox" value="3"> 3</label>
+    <label for="group4"><input id="group4" checked name="group" type="checkbox" value="4"> 4</label>
+</div>
+
+<br>
+<br>
+<div id="table">Loading...</div>
+<footer class="footer d-print-none">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div>Prepared by: Nico Amarilla</div>
+                <div>Source: BSP</div>
+            </div>
+        </div>
+    </div>
+</footer>
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/lodash.min.js"></script>
+<script src="js/banks.js"></script>
+<script>
+var sortBy = 'asc'
+function show($, _, groups, orderBy, sortBy) {
+    
+    var t = $('<table>')
+    var row = $('<tr>')
+    row.append('<th><a class="order-by" data-order-by="name" href="#">Name</a></th>')
+    row.append('<th><a class="order-by" data-order-by="type" href="#">Type</a></th>')
+    row.append('<th><a class="order-by" data-order-by="group" href="#">Group</a></th>')
+    t.append(row)
+    window.banks = _.orderBy(window.banks, [orderBy], [sortBy]);
+    _.each(window.banks, function(bank) {
+        if(groups.includes(bank.group)){
+            var row = $('<tr>')
+            row.append('<td>'+bank.name+'</td>')
+            row.append('<td>'+bank.type+'</td>')
+            row.append('<td>'+bank.group+'</td>')
+            t.append(row)
+        }
+    })
+    $('#table').html(t)
+}
+function getGroups($) {
+    var groups = [];
+    $('input[name="group"]:checked').each(function(){
+        groups.push(parseInt(this.value));
+    })
+    return groups;
+}
+jQuery(document).ready(function($){
+
+    show($, _, getGroups($))
+    
+    $('input[name="group"]').on('click', function(){
+        show($, _, getGroups($))
+    })
+    $('#table').on('click', '.order-by', function(e){
+        e.preventDefault()
+        show($, _, getGroups($), $(this).data('orderBy'), sortBy)
+        if(sortBy == 'asc'){
+            sortBy = 'desc'
+        } else {
+            sortBy = 'asc'
+        }
+    })
+})
+</script>
+</body>
+</html>
