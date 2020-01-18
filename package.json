@@ -1,0 +1,23 @@
+{
+  "name": "ph-banks",
+  "version": "1.0.0",
+  "description": "List of Philippine banks from Bangko Sentral ng Pilipinas (BSP).",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kosinix/ph-banks.git"
+  },
+  "keywords": [],
+  "author": "Nico Amarilla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kosinix/ph-banks/issues"
+  },
+  "homepage": "https://github.com/kosinix/ph-banks#readme"
+}
