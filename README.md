@@ -1,12 +1,12 @@
 # Philippine Banks
 List of Philippine banks from Bangko Sentral ng Pilipinas (BSP).
 
-* See [demo](docs/index.html)
+* See [demo](https://kosinix.github.io/ph-banks/)
 
 The list is available in CSV and JSON format:
 
-* [banks.csv](src/banks.csv)
-* [banks.json](src/banks.json)
+* [banks.csv](https://raw.githubusercontent.com/kosinix/ph-banks/master/src/banks.csv)
+* [banks.json](https://raw.githubusercontent.com/kosinix/ph-banks/master/src/banks.json)
 
 The banks are grouped into 4: 
 
